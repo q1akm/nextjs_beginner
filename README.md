@@ -1,1 +1,2 @@
-# nextjs_beginner
+# nextjs_starter
+Learning....Next
