@@ -1,2 +1,2 @@
 # nextjs_starter
-Learning....Next
+Learning next.js for backend
